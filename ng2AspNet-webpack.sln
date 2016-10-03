@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "ng2AspNet-webpack", "ng2AspNet-webpack.elements", "{21C7F04D-250C-4573-9AE2-A62AD7D56C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C7F04D-250C-4573-9AE2-A62AD7D56C90}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{21C7F04D-250C-4573-9AE2-A62AD7D56C90}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{21C7F04D-250C-4573-9AE2-A62AD7D56C90}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{21C7F04D-250C-4573-9AE2-A62AD7D56C90}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
